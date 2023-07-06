@@ -111,6 +111,8 @@
 }
 
 .header__wrapper {
+    margin: auto;
+    max-width: 1600px;
     width: 100%;
     height: 700px;
     background: url(../img/food-burger-wallpaper-preview\ 1.png) no-repeat center center / cover;
@@ -238,16 +240,14 @@ main {
     row-gap: 15px;
 }
 
-.card1__image {
+.card__image1 {
     width: 338.73px;
     height: 325px;
     transition: .5s;
     background: url(../img/unnamed\ 1.png) no-repeat center center / cover;
 }
 
-.card1__image:hover {
-    width: 338.73px;
-    height: 325px;
+.card__image1:hover {
     background: url(../img/Screenshot\ 2023-07-06\ 142946.png) no-repeat center center / cover;
 }
 
@@ -335,7 +335,7 @@ main {
 }
 
 .footer__link {
-    color: #fff;
+    color: #FFF;
     text-align: center;
     font-family: Roboto;
     font-size: 20px;
