@@ -25,6 +25,11 @@
 }
 @font-face {
     font-family: "Raleway";
+    src: url(../fonts/Raleway/Raleway-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Raleway";
     src: url(../fonts/Raleway/Raleway-Thin.ttf);
     font-weight: 100;
 }
